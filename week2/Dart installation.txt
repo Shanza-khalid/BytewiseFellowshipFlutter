@@ -1,0 +1,10 @@
+This is the process which i used to install dart.
+
+Install Dart SDK using zip file
+Go to this link: https://dart.dev/tools/sdk/archive
+Download stable version of dart
+
+After downloading zip file extract dart sdk e.g c:\src\dart-sdk
+Now copy path up to bin directory (C:\src\dart-sdk\bin) and paste it into user environment variables
+
+Now go to terminal and run “dart –version” to check if dart installed successfully or not.

@@ -1,0 +1,22 @@
+First step in installing Flutter is to download and install JDK
+After installing the java now open the power shell or command window type `java --version` to verify the java is installed properly
+
+Flutter SDK (download from official website http://flutter.dev)
+Set Path in User Variables
+After extracting flutter, suppose we extract flutter in C:\src\flutter, we need to set the path of flutter bin folder into user environment variables.
+After setting the path of flutter into env variables we need to test, is flutter installed correctly
+For this run from command line “flutter doctor”
+
+Install Android Studio
+Flutter depends on a full installation of Android Studio, so you need to install Android Studio. To install Android Studio, we need to go its official website
+
+https://developer.android.com/studio
+
+Setup Flutter and Dart Plugin in Android Studio
+After installing Android Studio, we need to install flutter and dart plugin in android studio.
+
+Steps to install plugins:
+
+Open Android studio
+Click on File>Settings
+Then choose Plugin in and search for flutter and dart plugin 
