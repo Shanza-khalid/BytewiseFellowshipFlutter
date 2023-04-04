@@ -1,0 +1,16 @@
+This week i have kearned aboiut the following things.
+
+MaterialApp class: It is a widget that contains commonly required widgets for material design applications.
+
+Scaffold: it is a class that contains many widgets like drawer, top bar, bootom bar etc.
+
+Appbar widget: Appbar displays toolbar widgets. i have used its properties like background color, title and center title for allignment.
+
+Image insertion:I have inserted image usign 2 methods. Network image and Assets image.
+
+Floating action button
+
+Stateless and statefull widgets
+
+Basic layout: row, stack, container, list.
+
