@@ -24,10 +24,10 @@ class _home_screenState extends State<home_screen> {
           Center(
               child: TextButton(
                   onPressed: () {
-                    Navigator.pushNamed(context, ScreenTwo.id)
+                    Navigator.pushNamed(context, ScreenTwo.id);
 
-                   // Navigator.push(context,
-                     //   MaterialPageRoute(builder: (context) => ScreenTwo()));
+                    // Navigator.push(context,
+                    //   MaterialPageRoute(builder: (context) => ScreenTwo()));
                   },
                   child: Text('Screen1')))
         ],

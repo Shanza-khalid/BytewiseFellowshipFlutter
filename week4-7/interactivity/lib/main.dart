@@ -30,7 +30,7 @@ class _FavWidgetState extends State<FavWidget> {
                   child: SizedBox(
                     child: Text('$_favcount'),
                   ),
-                )
+                ),
       ],
     );
   }
